@@ -1,0 +1,32 @@
+body{
+	background-color: #21252940;
+}
+.panel{
+	background-color: white;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	margin-bottom: 10px; 
+}
+
+
+.checkbox{
+	margin-right: 15px;
+}
+
+.checked{
+	text-decoration: line-through;
+}
+
+#delButton{
+	float: right;
+}
+
+.btn-xs{
+	height: 22px;
+	width: 45px;
+	font-size: 11px;
+	padding-top: 3px;
+	margin-right: 10px;
+}

@@ -1,0 +1,33 @@
+body{
+	background-color: #21252940;
+}
+
+.loginbar{
+	margin-top: 10%;
+	margin-left: 25%
+}
+
+.loginbar p{
+    margin-bottom: 0;
+    color: blue;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.loginbar input[type=text]{
+	margin-top: 0;
+	padding-top: 0px;
+	border: none;
+	border-bottom: 1px solid blue;	
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: black;
+	font-size: 22px;
+
+}
+
+.loginbar button{
+	margin-top: 10px;
+	margin-left: 10px
+}
